@@ -1,0 +1,2 @@
+# Brain-attention-reading-using-brainsense-interfaced-with-MATLAB
+This MATLAB code reads attention values from the Mindwave Mobile EEG device using the Thinkgear SDK. It establishes a connection, retrieves data packets, and plots real-time graphs. Modify the COM port number, run the code in MATLAB, and explore attention patterns. Refer to the Thinkgear SDK and Mindwave Mobile documentation for further details. 
